@@ -1,0 +1,59 @@
+.characters-card-wrapper {
+    width: 375px;
+    height: 74px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.characters-card-container {
+    width: 343px;
+    height: 74px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-top: 1px solid #dee2ea;
+
+}
+.characters-card-container:hover {
+    background: #EEE3FF;
+    border-radius: 8px;
+}
+.avatar-image {
+    display: flex;
+    align-items: center;
+}
+.avatar-image img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+
+.text-wrapper {
+    margin: 0;
+    width: 207px;
+    height: 42px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+
+}
+
+.text-wrapper h3{
+    margin: 0;
+    font-family: Greycliff CF Figma 001;
+    font-size: 16px;
+    font-weight: 600;  
+}
+
+.text-wrapper p{
+    display: block;
+    margin: 0;
+    color: #6B7280;
+}
+.favorite-icon {
+    width: 24px;
+    height: 24px;
+    background-color: yellowgreen;
+}

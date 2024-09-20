@@ -1,0 +1,20 @@
+.button-wrapper{
+    width: 50px;
+    height: 25px;
+    border-radius: 6px;
+    border: 1px solid #E5E7EB;
+    cursor: pointer;
+}
+
+.button-wrapper:hover{
+    background: #EEE3FF;
+}
+
+.button-wrapper span{
+    font-family: Greycliff CF Figma 001;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 14px;
+    letter-spacing: 0.05em;
+    color: #6B7280;
+}
