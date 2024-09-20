@@ -1,4 +1,4 @@
-<h1 align="center">Rick And Morty</h1>
+.<h1 align="center">Rick And Morty</h1>
 
 <p align="center" dir="auto"> 
   <a href="https://react.dev/">
@@ -34,11 +34,11 @@
 ## Table of Contents
 
 1. [Overview](#overview)
-1. [Build With](#buildwith)
-2. [Getting Started](#gettingstarted)
-3. [How to Use](#howtouse)
-4. [Acknowledgments](#acknowledgment)
-5. [Learn More](#learnmore)
+2. [Build With](#buildwith)
+3. [Getting Started](#gettingstarted)
+4. [How to Use](#howtouse)
+5. [Acknowledgments](#acknowledgment)
+6. [Learn More](#learnmore)
 
 
 ## Overview <a id="overview"></a>
@@ -48,7 +48,6 @@ A minimal app that uses the Rick and Morty Api to navigate through the different
 
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [Vite](https://vitejs.dev/)
 - [Rick and Morty API](https://rickandmortyapi.com/documentation//)
 
